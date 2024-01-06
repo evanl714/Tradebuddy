@@ -1,0 +1,8 @@
+node_modules
+.next
+.cache
+.upm
+.config
+cache
+.env.local
+
