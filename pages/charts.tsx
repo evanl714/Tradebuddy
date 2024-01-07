@@ -1,0 +1,1 @@
+import{NextPage}from'next';import Head from'next/head';import Layout from'../components/_layout';import ChatBox from'../components/ChatBox';const Charts:NextPage=()=>(<Layout><Head><title>Charts - Tradebuddy.ai</title></Head><ChatBox/></Layout>);export default Charts;

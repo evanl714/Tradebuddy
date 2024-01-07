@@ -1,0 +1,1 @@
+import{NextPage}from'next';import Head from'next/head';import Layout from'../components/_layout';const Profile:NextPage=()=>(<Layout><Head><title>Profile - Tradebuddy.ai</title></Head></Layout>);export default Profile;

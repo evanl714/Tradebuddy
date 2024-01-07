@@ -21,7 +21,7 @@ Compliant with WCAG 2.1 Level AA standards.
 - OAuth for authentication
 
 ## Getting Started
-Instructions for setting up the project will be provided in the project's documentation.
+To get started with Tradebuddy.ai, clone the repository, install dependencies with `npm install`, and run `npm run dev` to start the development server.
 
 ## Contributing
 Guidelines for contributing to the project will be outlined for developers.

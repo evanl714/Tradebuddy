@@ -1,0 +1,1 @@
+import{Button,FormControl,FormLabel,Input,Box}from'@chakra-ui/react';const Auth=()=>(<Box p={4}><FormControl><FormLabel>Email</FormLabel><Input type='email'/><FormLabel>Password</FormLabel><Input type='password'/><Button mt={4} colorScheme='teal' type='submit'>Submit</Button></FormControl></Box>);export default Auth;

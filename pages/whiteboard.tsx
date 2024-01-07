@@ -1,0 +1,1 @@
+import{NextPage}from'next';import Head from'next/head';import Layout from'../components/_layout';const Whiteboard:NextPage=()=>(<Layout><Head><title>Whiteboard - Tradebuddy.ai</title></Head></Layout>);export default Whiteboard;
